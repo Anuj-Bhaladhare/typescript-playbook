@@ -1,0 +1,17 @@
+{
+  "name": "003_typescript",
+  "version": "1.0.0",
+  "description": "Follow the numbered folders in order. Each folder contains a focused `.ts` lesson. Lessons use comments to explain the topic, use cases, example code, and expected output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
